@@ -1,0 +1,6 @@
+{
+  "name": "AI Debate Partner",
+  "description": "A structured web application for real-time intellectual debates, argument practice, and rhetorical analysis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
